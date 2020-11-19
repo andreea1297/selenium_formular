@@ -1,0 +1,684 @@
+1605806092567	geckodriver	INFO	Listening on 127.0.0.1:50231
+1605806093126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofileiJml06"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605806101636	Marionette	INFO	Listening on port 50236
+1605806101839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605806102297	Marionette	ERROR	[34] No reply from Marionette:Register
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605806200711	Marionette	INFO	Stopped listening on port 50236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileODQLk9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605806169808	Marionette	INFO	Listening on port 50443
+1605806170432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605806185836	Marionette	INFO	Stopped listening on port 50443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605806640597	geckodriver	INFO	Listening on 127.0.0.1:50763
+1605806641155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofileFPnBO0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605806646639	Marionette	INFO	Listening on port 50768
+1605806647039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\A737638\AppData\Local\Temp\rust_mozprofileFPnBO0\protections.sqlite
+1605806743541	Marionette	INFO	Stopped listening on port 50768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+" (new Error("", "(unknown module)"))
+1605806706489	Marionette	INFO	Listening on port 50950
+1605806706626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 150: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1605806827132	Marionette	INFO	Stopped listening on port 51125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605806998707	geckodriver	INFO	Listening on 127.0.0.1:51324
+1605806999290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofilezPWqSx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605807004972	Marionette	INFO	Listening on port 51329
+1605807005232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605807106029	Marionette	INFO	Stopped listening on port 51329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileIHDsD9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605807104268	Marionette	INFO	Listening on port 51534
+1605807104949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1605807191211	Marionette	INFO	Stopped listening on port 51534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605807235636	geckodriver	INFO	Listening on 127.0.0.1:51773
+1605807236195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofileCqcszA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605807242748	Marionette	INFO	Listening on port 51778
+1605807243002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605807298844	Marionette	INFO	Stopped listening on port 51778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+module)"))
+1605807297194	Marionette	INFO	Listening on port 51956
+1605807297981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605807338805	Marionette	INFO	Stopped listening on port 51956
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofileqF0h3W"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605807343041	Marionette	INFO	Listening on port 52138
+1605807343410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\A737638\AppData\Local\Temp\rust_mozprofileqF0h3W\protections.sqlite
+1605808162557	Marionette	INFO	Stopped listening on port 52138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+" (new Error("", "(unknown module)"))
+1605807655592	Marionette	INFO	Listening on port 52374
+1605807655850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605807754015	Marionette	INFO	Stopped listening on port 52374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605808192374	geckodriver	INFO	Listening on 127.0.0.1:52670
+1605808192901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofilegosa9a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605808200461	Marionette	INFO	Listening on port 52676
+1605808200668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1605808296762	Marionette	INFO	Stopped listening on port 52676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605808297977	geckodriver	INFO	Listening on 127.0.0.1:52947
+1605808298581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofilehz7VuO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605808305433	Marionette	INFO	Listening on port 52952
+1605808305787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605808376711	Marionette	INFO	Stopped listening on port 52952
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605808396032	geckodriver	INFO	Listening on 127.0.0.1:53160
+1605808396579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofilek7w9Pk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605808402741	Marionette	INFO	Listening on port 53165
+1605808403335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\A737638\AppData\Local\Temp\rust_mozprofilek7w9Pk\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x38014A,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1605809072888	geckodriver	INFO	Listening on 127.0.0.1:49984
+1605809073018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofilee8yW9l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605809087965	Marionette	INFO	Listening on port 49990
+1605809088568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605809199771	geckodriver	INFO	Listening on 127.0.0.1:50196
+1605809200337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofile5ivmd6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605809206427	Marionette	INFO	Listening on port 50201
+1605809206537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605809257263	Marionette	INFO	Stopped listening on port 50201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605809341557	geckodriver	INFO	Listening on 127.0.0.1:50380
+1605809342103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofileQ3eqQq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605809347616	Marionette	INFO	Listening on port 50385
+1605809348112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\A737638\AppData\Local\Temp\rust_mozprofileQ3eqQq\protections.sqlite
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1605809588562	Marionette	INFO	Stopped listening on port 50385
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ror("", "(unknown module)"))
+1605809392169	Marionette	INFO	Listening on port 50557
+1605809392580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://www.gstatic.com/mysidia/48f2f5ef1106bf615cd568eafbe346a9.js?tag=video_mra/web_raspberry, line 166: SecurityError: The operation is insecure.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605809587788	Marionette	INFO	Stopped listening on port 50557
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5336: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1605809619726	geckodriver	INFO	Listening on 127.0.0.1:50867
+1605809620311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofile0W1Mrt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605809626805	Marionette	INFO	Listening on port 50872
+1605809627326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\A737638\AppData\Local\Temp\rust_mozprofile0W1Mrt\protections.sqlite
+1605809914969	Marionette	INFO	Stopped listening on port 50872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+" (new Error("", "(unknown module)"))
+1605809913760	geckodriver	INFO	Listening on 127.0.0.1:51143
+1605809914345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofile7HZPGI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605809920871	Marionette	INFO	Listening on port 51148
+1605809921060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605809975785	Marionette	INFO	Stopped listening on port 51148
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605809977910	geckodriver	INFO	Listening on 127.0.0.1:51318
+1605809978472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofilevdtR9n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605809984159	Marionette	INFO	Listening on port 51323
+1605809984463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605810087499	Marionette	INFO	Stopped listening on port 51323
+
+###!!! [Child][RJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605810092382	Marionette	INFO	Listening on port 51545
+1605810092780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605810403302	Marionette	INFO	Stopped listening on port 51545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileP1J0vc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605810147014	Marionette	INFO	Listening on port 51715
+1605810147451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\A737638\AppData\Local\Temp\rust_mozprofileP1J0vc\protections.sqlite
+1605810505392	Marionette	INFO	Stopped listening on port 51715
+
+###!!! [ChilJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605810510823	Marionette	INFO	Listening on port 52056
+1605810510987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605810633289	Marionette	INFO	Stopped listening on port 52056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605810634674	geckodriver	INFO	Listening on 127.0.0.1:52266
+1605810635245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\A737638\\AppData\\Local\\Temp\\rust_mozprofile4yctoD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605810640523	Marionette	INFO	Listening on port 52271
+1605810640611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1605810840571	Marionette	INFO	Stopped listening on port 52271
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605810842117	Marionette	INFO	Stopped listening on port 52485
+
+###!!! [Child][RJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605810846435	Marionette	INFO	Listening on port 52648
+1605810846536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1605810904157	Marionette	INFO	Stopped listening on port 52648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileADH0hK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605810908718	Marionette	INFO	Listening on port 52827
+1605810908962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 84: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://resources.blogblog.com/blogblog/data/res/3607782651-indie_compiled.js, line 26: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
