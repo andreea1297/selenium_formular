@@ -3,9 +3,12 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 import time
+import os
+import urllib3
 
 def formular():
     driver = webdriver.Firefox()
+    driver.maximize_window()
     driver.get("https://www.techlistic.com/p/selenium-practice-form.html") #accesare site
     time.sleep(5)
 
@@ -53,9 +56,41 @@ def formular():
     commands.select_by_visible_text("Switch Commands")
     time.sleep(2)
     a.key_up(Keys.CONTROL)
+    time.sleep(5)
 
     #upload an image
-    #download file
+    driver.find_element_by_id("photo").send_keys(os.getcwd()+"\parrots.bmp") #getcwd - calea pt folderul curent
+    time.sleep(5)
+
+    #download file -> trebe modificat
+    #download_dir = os.getcwd() #current directory
+
+    #profile = webdriver.FirefoxProfile()
+    #profile.set_preference('browser.download.folderList', 2)  # custom location
+    #profile.set_preference('browser.download.manager.showWhenStarting', False)
+    #profile.set_preference('browser.download.dir', download_dir)
+    #profile.set_preference('browser.helperApps.neverAsk.saveToDisk', 'text/csv')
+
+    #driver = webdriver.Firefox(profile)
+    #driver.get("https://www.techlistic.com/p/selenium-practice-form.html")  # accesare site
+
+   # driver.find_element_by_partial_link_text("https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml").click()
+    link = driver.find_element_by_partial_link_text("Click here to Download File")
+    link_download = link.get_attribute("href")
+    #print(link_download)
+    connection_pool = urllib3.PoolManager()
+    #print(link_download[0:8] + "raw.githubusercontent" + link_download[14:38] + link_download[43:])
+    url_2 = link_download[0:8] + "raw.githubusercontent" + link_download[14:38] + link_download[43:]
+    resp = connection_pool.request('GET', url_2)
+    filename = os.path.join(os.getcwd(), 'data_download.txt')
+    f = open(filename, 'wb')
+    f.write(resp.data)
+    f.close()
+    resp.release_conn()
+    time.sleep(5)
+
     #click submit
+    driver.find_element_by_id("submit").click()
+    time.sleep(3)
 
 formular()
