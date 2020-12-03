@@ -62,19 +62,7 @@ def formular():
     driver.find_element_by_id("photo").send_keys(os.getcwd()+"\parrots.bmp") #getcwd - calea pt folderul curent
     time.sleep(5)
 
-    #download file -> trebe modificat
-    #download_dir = os.getcwd() #current directory
 
-    #profile = webdriver.FirefoxProfile()
-    #profile.set_preference('browser.download.folderList', 2)  # custom location
-    #profile.set_preference('browser.download.manager.showWhenStarting', False)
-    #profile.set_preference('browser.download.dir', download_dir)
-    #profile.set_preference('browser.helperApps.neverAsk.saveToDisk', 'text/csv')
-
-    #driver = webdriver.Firefox(profile)
-    #driver.get("https://www.techlistic.com/p/selenium-practice-form.html")  # accesare site
-
-   # driver.find_element_by_partial_link_text("https://github.com/stanfy/behave-rest/blob/master/features/conf.yaml").click()
     link = driver.find_element_by_partial_link_text("Click here to Download File")
     link_download = link.get_attribute("href")
     #print(link_download)
